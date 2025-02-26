@@ -11,7 +11,7 @@ import time
 from smbus2 import SMBus
 import serial
 import threading
-
+#this is a test of git
 # Setup I2C comms channel for PS5 Controller
 I2C_BUS = 1  # I2C bus number (typically 1 on Raspberry Pi)
 I2C_ADDRESS = 0x08  # I2C address of the Arduino Mega ADK
